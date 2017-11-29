@@ -18,4 +18,4 @@ to run tests:
 
 [![Build Status](https://travis-ci.org/eduardoschmidtsantos/simplequeryexecutor.svg?branch=master)](https://travis-ci.org/eduardoschmidtsantos/simplequeryexecutor)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b2e0aa0e54034e6c8b0706f70c8460ca)](https://www.codacy.com/app/eduardoboss/simplequeryexecutor?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=eduardoschmidtsantos/simplequeryexecutor&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a19ecb68bec543bb9c81a228a33d28c7)](https://www.codacy.com/app/eduardoboss/simplequeryexecutor?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=eduardoschmidtsantos/simplequeryexecutor&amp;utm_campaign=Badge_Grade)
