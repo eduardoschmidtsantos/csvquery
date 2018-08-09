@@ -1,4 +1,4 @@
-# Query executor on files
+# CSV query executor on files
 
 Basic useful feature list:
 
