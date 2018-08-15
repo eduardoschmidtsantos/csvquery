@@ -1,4 +1,5 @@
-# CSV query executor
+# CSV query
+Query your csv data
 
 Basic useful feature list:
 
